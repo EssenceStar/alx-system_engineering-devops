@@ -1,1 +1,1 @@
-My_first_directory script
+A script that creates a new directory
