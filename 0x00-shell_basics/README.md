@@ -1,1 +1,1 @@
-A script to determine a file type
+A script to create a symbolic link
