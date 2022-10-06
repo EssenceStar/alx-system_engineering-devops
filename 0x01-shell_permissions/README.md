@@ -1,1 +1,1 @@
- A script that identifies the effective name of the user 
+ A script that lists all groups a user is part of 
