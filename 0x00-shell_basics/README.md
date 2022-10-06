@@ -1,1 +1,1 @@
-How to clean emacs
+ A script that creates multiple directories(Tree) 
