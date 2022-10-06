@@ -1,1 +1,1 @@
- A script to copy new htmlfile into a dir 
+ A script that moves all files starting with an uppercase in a dir
