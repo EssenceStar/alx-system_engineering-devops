@@ -1,1 +1,1 @@
- Setting mirror permissions for files Olleh and Hello 
+ A script for directories permissions 
