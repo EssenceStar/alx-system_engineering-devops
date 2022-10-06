@@ -1,1 +1,1 @@
- A script that creates multiple directories(Tree) 
+ A cmd that lists all files/dirs seperated by comma 
