@@ -1,1 +1,1 @@
- A trip to Shell Permisions
+ A script that identifies the effective name of the user 
