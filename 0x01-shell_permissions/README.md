@@ -1,1 +1,1 @@
-A script rgat creates and empty file, Hello
+ A script that adds execute permission to a file called hello 
