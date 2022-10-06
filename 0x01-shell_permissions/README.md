@@ -1,1 +1,1 @@
- A script for directories permissions 
+ A  script that creates a directory called my_dir with permissions 751 in the working directory.
