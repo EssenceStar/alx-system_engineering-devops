@@ -1,1 +1,1 @@
-A script that change the owner of a file to a new owner
+A script rgat creates and empty file, Hello
