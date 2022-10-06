@@ -1,1 +1,1 @@
-A script to list all files with hidden files inclusive
+A script to determine a file type
