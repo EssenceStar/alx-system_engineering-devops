@@ -1,1 +1,1 @@
- A script that sets the mod the file Hello to -rwxr-x-wx 1 
+ Setting mirror permissions for files Olleh and Hello 
