@@ -1,1 +1,1 @@
-Script to delete my first directory directory
+script to change a directory to the previous one
