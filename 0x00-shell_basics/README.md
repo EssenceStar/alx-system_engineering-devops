@@ -1,1 +1,1 @@
-A script to create a symbolic link
+ A script to copy new htmlfile into a dir 
