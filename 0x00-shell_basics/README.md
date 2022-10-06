@@ -1,1 +1,1 @@
-To delete the file betty
+Script to delete my first directory directory
