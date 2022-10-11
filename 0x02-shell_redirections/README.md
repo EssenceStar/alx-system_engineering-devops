@@ -1,1 +1,1 @@
- Find and delete all js files 
+ Making my directories count 
