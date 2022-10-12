@@ -1,1 +1,1 @@
- Binary to Decimal 
+ 12 Combinations 
