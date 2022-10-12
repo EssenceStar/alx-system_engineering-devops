@@ -1,1 +1,1 @@
-A script that creates a new global variable 
+True knowledge
